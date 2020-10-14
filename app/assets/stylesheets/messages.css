@@ -119,20 +119,20 @@
   display: flex;
 }
 
-.footer-form {
+.form-input {
   width: 100%;
   background-color:white;
   display: flex;
 }
 
-.send-comment {
+.form-message {
   border: none;
   padding-left: 10px;
   width: 100%;
   height: 50px;
 }
 
-.send-button {
+.form-submit {
   border: none;
   font-size: 16px;
   color: white;
